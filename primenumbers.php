@@ -40,4 +40,4 @@ function prime_number($n)
     }
 }
 
-var_dump(prime_number(5));
+//var_dump(prime_number(3));
